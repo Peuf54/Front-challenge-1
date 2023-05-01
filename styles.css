@@ -25,6 +25,8 @@ body {
     text-align: center;
 
     padding: 15px;
+
+    box-shadow: 0 0 16px rgba(175, 175, 175, .5);
 }
 
 #qr-code {
@@ -43,7 +45,8 @@ body {
 }
 
 #p-description {
-    font-weight: 300;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
 
     width: 85%;
     margin: 25px auto;
