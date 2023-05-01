@@ -20,7 +20,7 @@ body {
     border-radius: 20px;
 
     width: 325px;
-    height: 520px;
+    height: 500px;
 
     text-align: center;
 
@@ -39,7 +39,7 @@ body {
     color: hsl(218, 44%, 22%);
 
     width: 90%;
-    margin: 25px auto;
+    margin: 20px auto;
 
     font-weight: 700;
 }
@@ -49,7 +49,7 @@ body {
     color: hsl(220, 15%, 55%);
 
     width: 85%;
-    margin: 25px auto;
+    margin: 20px auto;
 }
 
 .attribution { 
